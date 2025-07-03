@@ -1,0 +1,1 @@
+{"version":3,"file":"GameWorld.d.ts","sourceRoot":"","sources":["../../src/game/GameWorld.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAe,MAAM,UAAU,CAAC;AAEjD,qBAAa,SAAS;IACpB,OAAO,CAAC,SAAS,CAAmC;;IAMpD,OAAO,CAAC,eAAe;IA+KvB,WAAW,CAAC,UAAU,EAAE,MAAM,GAAG,QAAQ,GAAG,SAAS;IAIrD,eAAe,IAAI;QAAE,CAAC,GAAG,EAAE,MAAM,GAAG,QAAQ,CAAA;KAAE;CAG/C"}
